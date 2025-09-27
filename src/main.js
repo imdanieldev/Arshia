@@ -19,7 +19,7 @@ document.querySelector('#app').innerHTML = `
 	<div class="w-full min-h-svh flex justify-center items-center px-8 py-4 relative z-20">
 		<div class="w-fit xl:1/3 px-12 py-4 bg-white/5 rounded-xl backdrop-blur-xs border-2 border-solid border-white">
 			<div class="w-full flex justify-between items-center flex-col gap-y-6">
-				<img src="/arshia.png" class="w-40 h-40 rounded-full border-4 border-dashed border-white" />
+				<img src="/arshia.jpg" class="w-40 h-40 rounded-full border-4 border-dashed border-white" />
 				<h1 class="text-3xl">Arshia kd</h1>
 				<div class="flex w-full justify-center items-center gap-4 flex-wrap">
 					<a href="https://instagram.com/z1arshia" class="text-xl sm:text-2xl flex gap-x-1 items-center bg-linear-120 from-[#f9ce34] via-[#ee2a7b] to-[#6228d7] px-4 py-2 rounded-lg">
