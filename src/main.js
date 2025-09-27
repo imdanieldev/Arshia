@@ -16,7 +16,7 @@ document.querySelector('#app').innerHTML = `
 		<div class="w-fit xl:1/3 px-12 py-4 bg-white/5 rounded-xl backdrop-blur-xs">
 			<div class="w-full flex justify-between items-center flex-col gap-y-6">
 				<img src="/arshia.jpg" class="w-40 h-40 rounded-full border-4 border-solid border-white" />
-				<h1 class="text-3xl">Arshia Kadkhodaei</h1>
+				<h1 class="text-3xl text-center">Arshia Kadkhodaei</h1>
 				<img src="/logo.png" class="w-36 h-auto" />
 				<div class="flex w-full justify-center items-center gap-4 flex-wrap">
 					<a href="https://instagram.com/z1arshia" class="text-xl sm:text-2xl flex gap-x-1 items-center bg-white/5 px-4 py-2 rounded-lg">
