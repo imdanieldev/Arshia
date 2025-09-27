@@ -1,17 +1,7 @@
 import './style.css'
 
 document.querySelector('#app').innerHTML = `
-<main class="bg-gray-950 w-full min-h-svh inter text-white">
-	<section class="fixed z-10 top-0 left-0 w-full h-full overflow-hidden">
-    	<div class="starsbg">
-        	<div class="stars"></div>
-        	<div class="shooting-star"></div>
-        	<div class="shooting-star"></div>
-        	<div class="shooting-star"></div>
-        	<div class="shooting-star"></div>
-        	<div class="shooting-star"></div>
-    	</div>
-	</section>
+<main class="bg-[#B30D11] w-full min-h-svh inter text-white">
 	<div class="w-full min-h-svh flex justify-center items-center px-8 py-4 relative z-20">
 		<div class="w-fit xl:1/3 px-12 py-4 bg-white/5 rounded-xl backdrop-blur-xs">
 			<div class="w-full flex justify-between items-center flex-col gap-y-6">
@@ -37,3 +27,13 @@ document.querySelector('#app').innerHTML = `
 	</div>
 </main>
 `
+	// <section class="fixed z-10 top-0 left-0 w-full h-full overflow-hidden">
+    // 	<div class="starsbg">
+    //     	<div class="stars"></div>
+    //     	<div class="shooting-star"></div>
+    //     	<div class="shooting-star"></div>
+    //     	<div class="shooting-star"></div>
+    //     	<div class="shooting-star"></div>
+    //     	<div class="shooting-star"></div>
+    // 	</div>
+	// </section>
