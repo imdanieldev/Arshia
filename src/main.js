@@ -3,18 +3,14 @@ import './style.css'
 document.querySelector('#app').innerHTML = `
 <main class="bg-black w-full min-h-svh inter text-white">
 	<section class="table fixed z-10 top-0 left-0 w-full h-full overflow-hidden">
-		<div class="lines">
-			<div class="line"></div>
-			<div class="line"></div>
-			<div class="line"></div>
-			<div class="line"></div>
-			<div class="line"></div>
-			<div class="line"></div>
-			<div class="line"></div>
-			<div class="line"></div>
-			<div class="line"></div>
-			<div class="line"></div>
-		</div>
+    	<div class="starsbg">
+        	<div class="stars"></div>
+        	<div class="shooting-star"></div>
+        	<div class="shooting-star"></div>
+        	<div class="shooting-star"></div>
+        	<div class="shooting-star"></div>
+        	<div class="shooting-star"></div>
+    	</div>
 	</section>
 	<div class="w-full min-h-svh flex justify-center items-center px-8 py-4 relative z-20">
 		<div class="w-fit xl:1/3 px-12 py-4 rounded-xl">
@@ -41,3 +37,15 @@ document.querySelector('#app').innerHTML = `
 	</div>
 </main>
 `
+		// <div class="lines">
+		// 	<div class="line"></div>
+		// 	<div class="line"></div>
+		// 	<div class="line"></div>
+		// 	<div class="line"></div>
+		// 	<div class="line"></div>
+		// 	<div class="line"></div>
+		// 	<div class="line"></div>
+		// 	<div class="line"></div>
+		// 	<div class="line"></div>
+		// 	<div class="line"></div>
+		// </div>
