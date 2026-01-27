@@ -2,22 +2,12 @@ import './style.css'
 
 document.querySelector('#app').innerHTML = `
 <main class="bg-black w-full min-h-svh inter text-white">
-	<section class="table fixed z-10 top-0 left-0 w-full h-full overflow-hidden">
-    	<div class="starsbg">
-        	<div class="stars"></div>
-        	<div class="shooting-star"></div>
-        	<div class="shooting-star"></div>
-        	<div class="shooting-star"></div>
-        	<div class="shooting-star"></div>
-        	<div class="shooting-star"></div>
-    	</div>
-	</section>
 	<div class="w-full min-h-svh flex justify-center items-center px-8 py-4 relative z-20">
 		<div class="w-fit xl:1/3 px-12 py-4 rounded-xl">
 			<div class="w-full flex justify-between items-center flex-col gap-y-6">
 				<img src="/arshia.jpg" class="w-40 h-40 rounded-full border-4 border-solid border-white" />
 				<h1 class="text-3xl text-center">Arshia Kadkhodaei</h1>
-				<img src="/logo.jpg" class="w-36 h-auto" />
+				<img src="/logo2.png" class="w-36 h-auto" />
 				<div class="flex w-full justify-center items-center gap-4 flex-wrap">
 					<a href="https://instagram.com/z1arshia" class="text-xl sm:text-2xl flex gap-x-1 items-center bg-white/5 px-4 py-2 rounded-lg">
 						<svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6 sm:w-8 sm:h-8" viewBox="0 0 24 24"><!-- Icon from Huge Icons by Hugeicons - undefined --><g fill="none" stroke="currentColor"><path stroke-linejoin="round" stroke-width="1.5" d="M2.5 12c0-4.478 0-6.718 1.391-8.109S7.521 2.5 12 2.5c4.478 0 6.718 0 8.109 1.391S21.5 7.521 21.5 12c0 4.478 0 6.718-1.391 8.109S16.479 21.5 12 21.5c-4.478 0-6.718 0-8.109-1.391S2.5 16.479 2.5 12Z"/><path stroke-width="1.5" d="M16.5 12a4.5 4.5 0 1 1-9 0a4.5 4.5 0 0 1 9 0Z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.508 6.5h-.01"/></g></svg>
