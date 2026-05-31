@@ -3,7 +3,7 @@ import './style.css'
 document.querySelector('#app').innerHTML = `
 <main class="bg-black w-full min-h-svh inter text-white">
 	<div class="w-full min-h-svh flex justify-center items-center px-8 py-4 relative z-20">
-		<div class="w-fit xl:1/3 px-12 py-4 rounded-xl">
+		<div class="w-fit xl:1/3 px-8 py-4 rounded-xl">
 			<div class="w-full flex justify-between items-center flex-col gap-y-6">
 				<img src="/arshi.jpg" class="w-40 h-40 rounded-full border-4 border-solid border-white" />
 				<h1 class="text-3xl text-center">Arshia Kadkhodaei</h1>
