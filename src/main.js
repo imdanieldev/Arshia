@@ -7,7 +7,7 @@ document.querySelector('#app').innerHTML = `
 			<div class="w-full flex justify-between items-center flex-col gap-y-6">
 				<img src="/arshia.jpg" class="w-40 h-40 rounded-full border-4 border-solid border-white" />
 				<h1 class="text-3xl text-center">Arshia Kadkhodaei</h1>
-				<img src="/logo2.png" class="w-42 h-auto" />
+				<img src="/arshi.jpg" class="w-42 h-auto" />
 				<div class="flex w-full justify-center items-center gap-4 flex-wrap">
 					<a href="https://instagram.com/z1arshia" class="text-xl sm:text-2xl flex gap-x-1 items-center bg-white/5 px-4 py-2 rounded-lg">
 						<svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6 sm:w-8 sm:h-8" viewBox="0 0 24 24"><!-- Icon from Huge Icons by Hugeicons - undefined --><g fill="none" stroke="currentColor"><path stroke-linejoin="round" stroke-width="1.5" d="M2.5 12c0-4.478 0-6.718 1.391-8.109S7.521 2.5 12 2.5c4.478 0 6.718 0 8.109 1.391S21.5 7.521 21.5 12c0 4.478 0 6.718-1.391 8.109S16.479 21.5 12 21.5c-4.478 0-6.718 0-8.109-1.391S2.5 16.479 2.5 12Z"/><path stroke-width="1.5" d="M16.5 12a4.5 4.5 0 1 1-9 0a4.5 4.5 0 0 1 9 0Z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.508 6.5h-.01"/></g></svg>
@@ -18,9 +18,9 @@ document.querySelector('#app').innerHTML = `
 						z1Arshia
 					</a>
 				</div>
-				<a href="tel:+989055145680" class="text-xl md:text-2xl flex gap-x-1 items-center bg-white/5 px-4 py-2 rounded-lg">
+				<a href="tel:+989909949604" class="text-xl md:text-2xl flex gap-x-1 items-center bg-white/5 px-4 py-2 rounded-lg">
 					<svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6 md:w-8 md:h-8" viewBox="0 0 24 24"><!-- Icon from Huge Icons by Hugeicons - undefined --><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5" d="m9.159 5.712l-.403-.906c-.263-.592-.395-.888-.592-1.115a2 2 0 0 0-.928-.603C6.949 3 6.625 3 5.976 3c-.948 0-1.422 0-1.82.182a2.12 2.12 0 0 0-1.061 1.169c-.143.413-.102.838-.02 1.689q1.31 13.575 14.886 14.885c.85.082 1.275.123 1.689-.02a2.12 2.12 0 0 0 1.168-1.06c.182-.399.182-.873.182-1.821c0-.649 0-.973-.088-1.26a2 2 0 0 0-.603-.928c-.226-.197-.523-.328-1.115-.592l-.906-.402c-.642-.285-.962-.428-1.288-.459a2 2 0 0 0-.919.128c-.305.119-.574.343-1.114.793c-.537.447-.805.67-1.133.79a2.16 2.16 0 0 1-.981.101c-.346-.05-.61-.192-1.14-.475c-1.645-.88-2.553-1.787-3.433-3.433c-.283-.53-.424-.794-.475-1.14a2.16 2.16 0 0 1 .1-.98c.12-.329.344-.597.791-1.134c.45-.54.675-.809.793-1.114c.114-.292.158-.607.128-.919c-.03-.325-.173-.646-.459-1.288Z"/></svg>
-					09055145680
+					+98 990 994 9604
 				</a>
 			</div>
 		</div>
